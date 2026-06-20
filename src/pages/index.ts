@@ -1,0 +1,9 @@
+export { default as Dashboard } from "./Dashboard";
+export { default as Students } from "./Students";
+export { default as StudentDetail } from "./StudentDetail";
+export { default as Groups } from "./Groups";
+export { default as GroupDetail } from "./GroupDetail";
+export { default as AddGroup } from "./AddGroup";
+export { default as Schedule } from "./Schedule";
+export { default as AddStudent } from "./AddStudent";
+export { default as Attendance } from "./Attendance";
