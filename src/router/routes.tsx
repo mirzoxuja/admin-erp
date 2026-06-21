@@ -10,9 +10,11 @@ import {
     Schedule,
     AddStudent,
     Attendance,
+    NotFound,
 } from "../pages";
 
 const router = createBrowserRouter([
+  
   {
     element: <AdminLayout />,
     children: [
@@ -54,6 +56,11 @@ const router = createBrowserRouter([
       }
     ],
   },
+  {
+    path: "*",
+    element: <NotFound />,
+  },
 ]);
+
 
 export default router;

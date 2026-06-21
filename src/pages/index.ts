@@ -7,3 +7,4 @@ export { default as AddGroup } from "./AddGroup";
 export { default as Schedule } from "./Schedule";
 export { default as AddStudent } from "./AddStudent";
 export { default as Attendance } from "./Attendance";
+export { default as NotFound } from "./NotFound";
