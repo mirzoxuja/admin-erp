@@ -9,11 +9,11 @@ const NotFound = () => {
           <Bug className="w-10 h-10 text-blue-600" />
         </div>
 
-        <h1 className="text-7xl font-bold text-gray-900 mb-2">Welcome</h1>
+        <h1 className="text-7xl font-bold text-gray-900 mb-2">404</h1>
         <h2 className="text-xl font-semibold text-gray-900 mb-3">
-          to admin dashboard
+          this page is not finished yet
         </h2>
-        
+
         <Link
           to="/admin"
           className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg px-5 py-2.5 text-sm font-medium"
