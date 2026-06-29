@@ -11,7 +11,7 @@ const NotFound = () => {
 
         <h1 className="text-7xl font-bold text-gray-900 mb-2">404</h1>
         <h2 className="text-xl font-semibold text-gray-900 mb-3">
-          this page is not finished yet
+          this page is still under construction
         </h2>
 
         <Link
